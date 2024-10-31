@@ -4,6 +4,6 @@
     "@vitejs/plugin-basic-ssl": "^1.1.0"
   },
   "scripts": {
-    "build": "vite build"
+    "build": "vite build --outDir docs"
   }
 }
